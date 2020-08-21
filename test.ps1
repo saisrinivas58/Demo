@@ -6,7 +6,7 @@ param(
 	[parameter(Mandatory=$true)]
 	[String] $keyVaultName,
 	[parameter(Mandatory=$true)]
-	[String] $sku,
+	[String] $sku
 	[parameter(Mandatory=$true)] 	
 )
 
